@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=Input%20text"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=EDGAR%20text"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=132eda&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edgar+Vitor;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
